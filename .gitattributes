@@ -1,1 +1,2 @@
 *.mlx linguist-language=MATLAB
+*.py text
